@@ -11,7 +11,7 @@ public class Entry {
 	public Object value; // Värde
 	
 	/**
-	 * Konstruktorn tar emot nyckel och värde när vi skapar nya Entryn
+	 * Konstruktorn tar emot nyckel och värde när vi skapar nya Entryn.
 	 * @param key
 	 * @param value
 	 */
